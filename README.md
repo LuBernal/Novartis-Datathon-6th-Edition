@@ -25,5 +25,7 @@ In the pursuit of solving this intricate problem, we delved into a diverse range
 
 ## 🏅 Achievements
 
-Our dedicated work and collaborative spirit earned us a commendable position among the top 20 teams in a global competition featuring 53 teams. This accomplishment speaks volumes about our commitment to excellence and proficiency
+Our dedicated work and collaborative spirit earned us a commendable position among the top 20 teams in a global competition featuring 53 teams. This accomplishment speaks volumes about our commitment to excellence and proficiency in the realm of data science.
+
+Feel free to explore our repository, delve into the intricacies of our approach, and witness firsthand the culmination of our efforts during the Novartis Datathon 6th Edition.
 
